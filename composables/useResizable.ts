@@ -1,6 +1,3 @@
-import { useEventListener } from '@vueuse/core'
-import { onMounted, ref } from 'vue'
-
 /**
  * Composable to handle resizable logic for a DOM element.
  *
